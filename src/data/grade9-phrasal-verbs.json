@@ -1,0 +1,152 @@
+[
+    {
+        "verb": "break down",
+        "translation": "бұзылу, істен шығу",
+        "example": "The car broke down on the way to Almaty."
+    },
+    {
+        "verb": "bring up",
+        "translation": "тәрбиелеу, өсіру",
+        "example": "She was brought up by her grandmother."
+    },
+    {
+        "verb": "call off",
+        "translation": "кейінге қалдыру, тоқтату",
+        "example": "The match was called off due to rain."
+    },
+    {
+        "verb": "carry on",
+        "translation": "жалғастыру",
+        "example": "Keep calm and carry on."
+    },
+    {
+        "verb": "come across",
+        "translation": "кездейсоқ кездестіру",
+        "example": "I came across an old photo of my grandfather."
+    },
+    {
+        "verb": "come up with",
+        "translation": "ойлап табу, ұсыну",
+        "example": "He came up with a great idea for the project."
+    },
+    {
+        "verb": "cut down",
+        "translation": "азайту, қысқарту",
+        "example": "I need to cut down on sugar."
+    },
+    {
+        "verb": "find out",
+        "translation": "білу, анықтау",
+        "example": "I found out that the exam is tomorrow."
+    },
+    {
+        "verb": "get along (with)",
+        "translation": "тіл табысу",
+        "example": "Do you get along with your classmates?"
+    },
+    {
+        "verb": "get over",
+        "translation": "еңсеру, айығу",
+        "example": "It took him a long time to get over the flu."
+    },
+    {
+        "verb": "give up",
+        "translation": "бас тарту, тоқтату",
+        "example": "Never give up on your dreams."
+    },
+    {
+        "verb": "go on",
+        "translation": "жалғастыру",
+        "example": "Please go on with your story."
+    },
+    {
+        "verb": "grow up",
+        "translation": "өсу, ержету",
+        "example": "I want to be a doctor when I grow up."
+    },
+    {
+        "verb": "look after",
+        "translation": "қарау, күту",
+        "example": "Can you look after my cat while I'm away?"
+    },
+    {
+        "verb": "look forward to",
+        "translation": "асыға күту",
+        "example": "I look forward to seeing you again."
+    },
+    {
+        "verb": "look into",
+        "translation": "зерттеу, тексеру",
+        "example": "The police are looking into the case."
+    },
+    {
+        "verb": "make up",
+        "translation": "ойдан шығару, татуласу",
+        "example": "He made up a story about being late."
+    },
+    {
+        "verb": "pass away",
+        "translation": "қайтыс болу",
+        "example": "His grandfather passed away last year."
+    },
+    {
+        "verb": "pick up",
+        "translation": "алып кету, үйрену",
+        "example": "I picked up some Kazakh phrases quickly."
+    },
+    {
+        "verb": "put off",
+        "translation": "кейінге қалдыру",
+        "example": "Don't put off until tomorrow what you can do today."
+    },
+    {
+        "verb": "put on",
+        "translation": "кию, қосу",
+        "example": "Put on your coat, it's cold outside."
+    },
+    {
+        "verb": "run out of",
+        "translation": "таусылу, біту",
+        "example": "We ran out of milk."
+    },
+    {
+        "verb": "set up",
+        "translation": "орнату, құру",
+        "example": "They set up a new business."
+    },
+    {
+        "verb": "take off",
+        "translation": "шешу (киімді), ұшып кету",
+        "example": "The plane took off on time."
+    },
+    {
+        "verb": "take up",
+        "translation": "бастау (хоббиді)",
+        "example": "I decided to take up painting."
+    },
+    {
+        "verb": "turn down",
+        "translation": "бас тарту",
+        "example": "He turned down the job offer."
+    },
+    {
+        "verb": "turn on",
+        "translation": "қосу",
+        "example": "Turn on the light, please."
+    },
+    {
+        "verb": "turn off",
+        "translation": "өшіру",
+        "example": "Don't forget to turn off the TV."
+    },
+    {
+        "verb": "turn up",
+        "translation": "келу, пайда болу",
+        "example": "She didn't turn up for the meeting."
+    },
+    {
+        "verb": "work out",
+        "translation": "шешу, жаттығу",
+        "example": "Everything will work out in the end."
+    }
+]

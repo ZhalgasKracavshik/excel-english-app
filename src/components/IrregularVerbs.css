@@ -1,0 +1,89 @@
+.irregular-verbs {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+.search-box {
+    position: relative;
+    max-width: 500px;
+    margin: 0 auto 2rem;
+}
+
+.search-input {
+    width: 100%;
+    padding: 1rem 1rem 1rem 3rem;
+    border: 2px solid var(--border);
+    border-radius: var(--radius);
+    font-size: 1rem;
+    transition: all 0.3s;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1);
+}
+
+.search-icon {
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.25rem;
+}
+
+.verbs-table-container {
+    background: var(--surface);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+}
+
+.verbs-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.verbs-table thead {
+    background: linear-gradient(135deg, var(--primary) 0%, #6366f1 100%);
+    color: white;
+}
+
+.verbs-table th {
+    padding: 1rem;
+    text-align: left;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.verbs-table td {
+    padding: 1rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.verb-row {
+    transition: background-color 0.2s;
+    opacity: 0;
+}
+
+.verb-row:hover {
+    background-color: rgba(79, 70, 229, 0.05);
+}
+
+.verb-base {
+    font-weight: 600;
+    color: var(--primary);
+}
+
+.verb-translation {
+    color: var(--text-light);
+    font-style: italic;
+}
+
+.no-results {
+    text-align: center;
+    padding: 3rem;
+    color: var(--text-light);
+    font-size: 1.25rem;
+}

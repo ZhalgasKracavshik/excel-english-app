@@ -1,0 +1,394 @@
+[
+    {
+        "module": 1,
+        "section": "1a",
+        "word": "blood",
+        "translation": "қан",
+        "definition": "Red liquid in arteries."
+    },
+    {
+        "module": 1,
+        "section": "1a",
+        "word": "catch a wave",
+        "translation": "толқынды ұстау",
+        "definition": "Surfing term."
+    },
+    {
+        "module": 1,
+        "section": "1a",
+        "word": "escape death",
+        "translation": "ажалдан құтылу",
+        "definition": "Survive danger."
+    },
+    {
+        "module": 1,
+        "section": "1a",
+        "word": "shark attack",
+        "translation": "акула шабуылы",
+        "definition": "Attack by a shark."
+    },
+    {
+        "module": 1,
+        "section": "1a",
+        "word": "terror",
+        "translation": "үрей",
+        "definition": "Extreme fear."
+    },
+    {
+        "module": 1,
+        "section": "1b",
+        "word": "collect",
+        "translation": "жинау",
+        "definition": "Bring together."
+    },
+    {
+        "module": 1,
+        "section": "1b",
+        "word": "antique",
+        "translation": "көне зат",
+        "definition": "Old valuable object."
+    },
+    {
+        "module": 1,
+        "section": "1b",
+        "word": "exhibition",
+        "translation": "көрме",
+        "definition": "Public display."
+    },
+    {
+        "module": 1,
+        "section": "1c",
+        "word": "business",
+        "translation": "бизнес",
+        "definition": "Commercial activity."
+    },
+    {
+        "module": 1,
+        "section": "1c",
+        "word": "souvenir",
+        "translation": "естелік сыйлық",
+        "definition": "Memento."
+    },
+    {
+        "module": 1,
+        "section": "1c",
+        "word": "jewelry",
+        "translation": "зергерлік бұйым",
+        "definition": "Ornaments."
+    },
+    {
+        "module": 1,
+        "section": "1d",
+        "word": "hobby",
+        "translation": "хобби",
+        "definition": "Leisure activity."
+    },
+    {
+        "module": 1,
+        "section": "1d",
+        "word": "leisure",
+        "translation": "бос уақыт",
+        "definition": "Free time."
+    },
+    {
+        "module": 2,
+        "section": "2a",
+        "word": "achievement",
+        "translation": "жетістік",
+        "definition": "Success."
+    },
+    {
+        "module": 2,
+        "section": "2a",
+        "word": "ambition",
+        "translation": "амбиция",
+        "definition": "Strong desire."
+    },
+    {
+        "module": 2,
+        "section": "2b",
+        "word": "injury",
+        "translation": "жарақат",
+        "definition": "Physical harm."
+    },
+    {
+        "module": 2,
+        "section": "2b",
+        "word": "ankle",
+        "translation": "тобық",
+        "definition": "Joint."
+    },
+    {
+        "module": 2,
+        "section": "2c",
+        "word": "match",
+        "translation": "матч",
+        "definition": "Game."
+    },
+    {
+        "module": 2,
+        "section": "2d",
+        "word": "score",
+        "translation": "есеп",
+        "definition": "Points in a game."
+    },
+    {
+        "module": 2,
+        "section": "2e",
+        "word": "athlete",
+        "translation": "спортшы",
+        "definition": "Sports person."
+    },
+    {
+        "module": 3,
+        "section": "3a",
+        "word": "ancient",
+        "translation": "ежелгі",
+        "definition": "Very old."
+    },
+    {
+        "module": 3,
+        "section": "3a",
+        "word": "trade route",
+        "translation": "сауда жолы",
+        "definition": "Path for commerce."
+    },
+    {
+        "module": 3,
+        "section": "3b",
+        "word": "ruins",
+        "translation": "қирандылар",
+        "definition": "Destroyed buildings."
+    },
+    {
+        "module": 3,
+        "section": "3c",
+        "word": "mosque",
+        "translation": "мешіт",
+        "definition": "Place of worship."
+    },
+    {
+        "module": 3,
+        "section": "3d",
+        "word": "monument",
+        "translation": "ескерткіш",
+        "definition": "Memorial structure."
+    },
+    {
+        "module": 3,
+        "section": "3e",
+        "word": "history",
+        "translation": "тарих",
+        "definition": "Past events."
+    },
+    {
+        "module": 4,
+        "section": "4a",
+        "word": "charity",
+        "translation": "қайырымдылық",
+        "definition": "Helping others."
+    },
+    {
+        "module": 4,
+        "section": "4a",
+        "word": "volunteer",
+        "translation": "ерікті",
+        "definition": "Work for free."
+    },
+    {
+        "module": 4,
+        "section": "4b",
+        "word": "community",
+        "translation": "қауымдастық",
+        "definition": "Group of people."
+    },
+    {
+        "module": 4,
+        "section": "4c",
+        "word": "donate",
+        "translation": "қайырымдылық жасау",
+        "definition": "Give money/goods."
+    },
+    {
+        "module": 4,
+        "section": "4d",
+        "word": "fundraise",
+        "translation": "қаржы жинау",
+        "definition": "Collect money."
+    },
+    {
+        "module": 5,
+        "section": "5a",
+        "word": "art",
+        "translation": "өнер",
+        "definition": "Creative activity."
+    },
+    {
+        "module": 5,
+        "section": "5a",
+        "word": "painting",
+        "translation": "сурет",
+        "definition": "Picture."
+    },
+    {
+        "module": 5,
+        "section": "5b",
+        "word": "sculpture",
+        "translation": "мүсін",
+        "definition": "3D art."
+    },
+    {
+        "module": 5,
+        "section": "5c",
+        "word": "gallery",
+        "translation": "галерея",
+        "definition": "Place for art."
+    },
+    {
+        "module": 5,
+        "section": "5d",
+        "word": "masterpiece",
+        "translation": "шедевр",
+        "definition": "Great work of art."
+    },
+    {
+        "module": 6,
+        "section": "6a",
+        "word": "technology",
+        "translation": "технология",
+        "definition": "Scientific knowledge."
+    },
+    {
+        "module": 6,
+        "section": "6a",
+        "word": "gadget",
+        "translation": "гаджет",
+        "definition": "Small device."
+    },
+    {
+        "module": 6,
+        "section": "6b",
+        "word": "robot",
+        "translation": "робот",
+        "definition": "Machine."
+    },
+    {
+        "module": 6,
+        "section": "6c",
+        "word": "invention",
+        "translation": "өнертабыс",
+        "definition": "New creation."
+    },
+    {
+        "module": 6,
+        "section": "6d",
+        "word": "digital",
+        "translation": "сандық",
+        "definition": "Electronic."
+    },
+    {
+        "module": 7,
+        "section": "7a",
+        "word": "environment",
+        "translation": "қоршаған орта",
+        "definition": "Nature."
+    },
+    {
+        "module": 7,
+        "section": "7a",
+        "word": "pollution",
+        "translation": "ластану",
+        "definition": "Contamination."
+    },
+    {
+        "module": 7,
+        "section": "7b",
+        "word": "recycle",
+        "translation": "қайта өңдеу",
+        "definition": "Reuse."
+    },
+    {
+        "module": 7,
+        "section": "7c",
+        "word": "protect",
+        "translation": "қорғау",
+        "definition": "Keep safe."
+    },
+    {
+        "module": 7,
+        "section": "7d",
+        "word": "wildlife",
+        "translation": "жабайы табиғат",
+        "definition": "Animals in nature."
+    },
+    {
+        "module": 8,
+        "section": "8a",
+        "word": "travel",
+        "translation": "саяхат",
+        "definition": "Go to places."
+    },
+    {
+        "module": 8,
+        "section": "8a",
+        "word": "destination",
+        "translation": "баратын жер",
+        "definition": "Place to go."
+    },
+    {
+        "module": 8,
+        "section": "8b",
+        "word": "journey",
+        "translation": "сапар",
+        "definition": "Trip."
+    },
+    {
+        "module": 8,
+        "section": "8c",
+        "word": "explore",
+        "translation": "зерттеу",
+        "definition": "Discover."
+    },
+    {
+        "module": 8,
+        "section": "8d",
+        "word": "adventure",
+        "translation": "шытырман оқиға",
+        "definition": "Exciting experience."
+    },
+    {
+        "module": 9,
+        "section": "9a",
+        "word": "space",
+        "translation": "ғарыш",
+        "definition": "Universe."
+    },
+    {
+        "module": 9,
+        "section": "9a",
+        "word": "planet",
+        "translation": "планета",
+        "definition": "Celestial body."
+    },
+    {
+        "module": 9,
+        "section": "9b",
+        "word": "galaxy",
+        "translation": "галактика",
+        "definition": "System of stars."
+    },
+    {
+        "module": 9,
+        "section": "9c",
+        "word": "astronaut",
+        "translation": "ғарышкер",
+        "definition": "Space traveler."
+    },
+    {
+        "module": 9,
+        "section": "9d",
+        "word": "universe",
+        "translation": "ғалам",
+        "definition": "All of space."
+    }
+]

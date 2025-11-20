@@ -1,0 +1,80 @@
+.grade-header-section {
+    padding: 4rem 0;
+    text-align: center;
+    background: transparent;
+}
+
+.grade-page-title {
+    font-size: 3.5rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    background: var(--gradient-main);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.grade-page-subtitle {
+    font-size: 1.25rem;
+    color: var(--text-light);
+}
+
+.modules-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+    padding-bottom: 4rem;
+}
+
+.module-card {
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    transition: all 0.3s ease;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+.module-card:hover {
+    transform: translateY(-8px) scale(1.02);
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.module-icon {
+    font-size: 3rem;
+    background: var(--gradient-main);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.module-number {
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-light);
+    margin-bottom: 0.25rem;
+}
+
+.module-name {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 0.25rem;
+}
+
+.module-desc {
+    color: var(--primary);
+    font-weight: 500;
+}
+
+.special-card {
+    border: 2px solid rgba(236, 72, 153, 0.3);
+}
+
+.special-card-2 {
+    border: 2px solid rgba(99, 102, 241, 0.3);
+}

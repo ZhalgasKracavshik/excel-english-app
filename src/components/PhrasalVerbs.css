@@ -1,0 +1,81 @@
+.phrasal-verbs {
+    padding: 2rem 0;
+}
+
+.search-container {
+    position: relative;
+    max-width: 600px;
+    margin: 0 auto 3rem;
+    padding: 0.5rem;
+    background: white;
+}
+
+.search-input {
+    width: 100%;
+    padding: 1rem 1rem 1rem 3.5rem;
+    border: none;
+    border-radius: 0.8rem;
+    font-size: 1.1rem;
+    background: transparent;
+}
+
+.search-input:focus {
+    outline: none;
+}
+
+.search-icon {
+    position: absolute;
+    left: 1.2rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.4rem;
+    color: var(--text-light);
+}
+
+.verbs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.verb-card {
+    padding: 1.5rem;
+    transition: transform 0.3s, box-shadow 0.3s;
+    background: rgba(255, 255, 255, 0.9);
+}
+
+.verb-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.verb-header {
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.verb-title {
+    font-size: 1.5rem;
+    color: var(--primary-dark);
+    margin-bottom: 0.25rem;
+}
+
+.verb-translation {
+    font-size: 1.1rem;
+    color: var(--secondary);
+    font-weight: 500;
+}
+
+.verb-example {
+    font-style: italic;
+    color: var(--text-light);
+    line-height: 1.5;
+}
+
+.no-results {
+    text-align: center;
+    padding: 3rem;
+    font-size: 1.2rem;
+    color: var(--text-light);
+}

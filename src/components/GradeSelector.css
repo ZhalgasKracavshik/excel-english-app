@@ -1,0 +1,99 @@
+.grade-selector {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.grade-title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+    color: var(--text);
+}
+
+.grade-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+}
+
+.grade-card {
+    background: var(--surface);
+    border-radius: var(--radius);
+    padding: 2.5rem 2rem;
+    text-align: center;
+    box-shadow: var(--shadow);
+    border: 2px solid transparent;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    opacity: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.grade-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: var(--grade-color);
+    transform: scaleX(0);
+    transition: transform 0.3s;
+}
+
+.grade-card:hover::before {
+    transform: scaleX(1);
+}
+
+.grade-card:hover {
+    transform: translateY(-10px) scale(1.03);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--grade-color);
+}
+
+.grade-emoji {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+.grade-card:hover .grade-emoji {
+    animation: bounce 0.6s;
+}
+
+@keyframes bounce {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-20px);
+    }
+}
+
+.grade-name {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 0.5rem;
+}
+
+.grade-description {
+    color: var(--text-light);
+    font-size: 0.95rem;
+}
